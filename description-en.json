@@ -1,4 +1,5 @@
 {
+  "description": "Converts PDF documents into structured JSON containing metadata and extracted text suitable for indexing and retrieval.",
   "domainCategory": "Data & Analytics",
   "subjectiveTechnologyElement": "Pipelines",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "PDF To Text",
-      "text": "SubjectivePdfToTextDataSource - Batch data source implementation",
+      "text": "Converts PDF documents into structured JSON containing metadata and extracted text suitable for indexing and retrieval.",
       "image": {
         "src": "/subjective_pdftotext_datasource/icon.svg",
         "alt": "PDF To Text icon"
